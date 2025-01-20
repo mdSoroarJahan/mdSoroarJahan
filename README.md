@@ -6,7 +6,7 @@ I'm a **Full-Stack Web Developer** specializing in **PHP and Laravel**, passiona
 
 - **Backend:** PHP (Laravel), MySQL, RESTful APIs  
 - **Frontend:** HTML, CSS, JavaScript (Vue.js/React)  
-- **Tools & DevOps:** Git, Docker, Nginx, CI/CD  
+- **Tools & DevOps:** Git 
 - **Other:** Object-Oriented Programming, Design Patterns, Security Best Practices
 
 ## 📈 GitHub Stats
