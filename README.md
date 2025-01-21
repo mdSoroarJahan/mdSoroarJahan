@@ -15,8 +15,7 @@ I'm a **Full-Stack Web Developer** specializing in **PHP and Laravel**, passiona
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/md-soroar-jahan-249015307/)
-- [Email](soroarjahan17@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsoroarjahan) [![Telegram](https://img.shields.io/badge/-TELEGRAM-%232B90D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoroarJahan) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mdSoroarJ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mdSoroarJ/)
 
 ---
 
