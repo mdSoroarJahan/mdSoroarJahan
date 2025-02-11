@@ -12,7 +12,6 @@ I'm a **Full-Stack Web Developer** specializing in **PHP and Laravel**, passiona
 ## 📈 GitHub Stats
 
 ![Md Soroar Jahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdSoroarJahan&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdSoroarJahan&theme=radical)  
 
 ### 🔥 Contribution Streak
 
